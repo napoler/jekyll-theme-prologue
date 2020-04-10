@@ -1,4 +1,5 @@
 # Prologue - Jekyll Theme
+更多简单的主题https://github.com/pages-themes
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
